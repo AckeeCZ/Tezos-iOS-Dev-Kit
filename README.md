@@ -1,4 +1,4 @@
-# Tezos-iOS-Dev-Kit
+![ackee|Tezos iOS Dev Kit](Resources/cover-image.png)
 
 Tezos iOS dev kit is a set of tools made for better interaction with Tezos blockchain on iOS platforms.
 
